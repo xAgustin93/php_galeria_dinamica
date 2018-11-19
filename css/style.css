@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(36, 36, 36);
+    color: #fff;
+}
+
+
+/* Home */
+#home .titulo {
+    text-align: center;
+    margin: 20px 0;
+    margin-bottom: 50px;
+}
+#home .thumb {
+    border: 5px solid rgb(61, 61, 61);
+}
+#home .thumb:hover {
+    border-color: #fff;
+}
+#home .paginacion {
+    margin-top: 50px;
+}
+#home .siguiente-pagina {
+    text-align: right;
+}
+#home .anterior-pagina a,
+#home .siguiente-pagina a {
+    color: #fff;
+}
+
+
+/* Foto */
+#foto .titulo {
+    text-align: center;
+    margin: 20px 0;
+    margin-bottom: 50px;
+}
+#foto .foto {
+    text-align: center;
+}
+#foto .foto img {
+    width: 40%;
+}
+
+
+/* Subir */
+#subir .titulo {
+    text-align: center;
+    margin: 20px 0;
+    margin-bottom: 50px;
+}
+
+
+
+/* Footer */
+footer {
+    margin-top: 50px;
+    margin-bottom: 15px;
+    text-align: center;
+}
